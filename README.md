@@ -1,5 +1,13 @@
 ### Hi there 👋
+Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins and Discord bots. I am new to this whole Git and GitHub thing, so if you have any suggestions please let me know what I can improve on!
 
+### Socials
+I am also located on other corners of the internet, and you can find me on a bunch of other sites!<br/>
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitch.svg" alt="TikTok" width="14px" height="14px"> [Twitch (**/sh0ckR6**)](https://twitch.tv/sh0ckR6)<br/>
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="TikTok" width="14px" height="14px"> [YouTube (**sh0ckR6**)](https://youtube.com/c/sh0ckR6)<br/>
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" alt="TikTok" width="14px" height="14px"> [Discord (**sh0ckR6#0727**)](https://discord.gg/zGpvE5T)<br/>
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tiktok.svg" alt="TikTok" width="14px" height="14px"> [TikTok (**@sh0ckR6**)](https://tiktok.com/@sh0ckR6)<br/>
+> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="TikTok" width="14px" height="14px"> [Twitter (**@sh0ckR6**)](https://twitter.com/sh0ckR6)<br/>
 <!--
 **sh0ckR6/sh0ckR6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
