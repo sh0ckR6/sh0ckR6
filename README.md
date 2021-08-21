@@ -17,6 +17,9 @@ I am also located on other corners of the internet, and you can find me on a bun
 <a href="https://github.com/sh0ckR6/AchievementBorder">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckR6&repo=AchievementBorder&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=222f3e" />
 </a>
+<a href="https://github.com/sh0ckR6/AchievementBorder">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckR6&repo=role-colors&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=222f3e" />
+</a>
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0ckR6)](https://github.com/anuraghazra/github-readme-stats)
