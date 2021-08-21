@@ -5,12 +5,11 @@
 Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins and Discord bots. I am new to this whole Git and GitHub thing, so if you have any suggestions please let me know what I can improve on!
 
 ### Socials
-I am also located on other corners of the internet, and you can find me on a bunch of other sites!<br/>
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitch.svg" alt="TikTok" width="14px" height="14px"> [Twitch (**/sh0ckR6**)](https://twitch.tv/sh0ckR6)<br/>
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="TikTok" width="14px" height="14px"> [YouTube (**sh0ckR6**)](https://youtube.com/c/sh0ckR6)<br/>
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" alt="TikTok" width="14px" height="14px"> [Discord (**sh0ckR6#0727**)](https://discord.gg/zGpvE5T)<br/>
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tiktok.svg" alt="TikTok" width="14px" height="14px"> [TikTok (**@sh0ckR6**)](https://tiktok.com/@sh0ckR6)<br/>
-> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="TikTok" width="14px" height="14px"> [Twitter (**@sh0ckR6**)](https://twitter.com/sh0ckR6)<br/>
+[![twitch](https://img.shields.io/badge/socials-Twitch-1DA1F2?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://twitch.tv/sh0ckR6)
+[![twitter](https://img.shields.io/badge/socials-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/sh0ckR6)
+[![discord](https://img.shields.io/badge/socials-Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/zGpvE5T)
+[![youtube](https://img.shields.io/badge/socials-Youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/sh0ckR6)
+[![tiktok](https://img.shields.io/badge/socials-TikTok-1DA1F2?style=for-the-badge&logo=tiktok&logoColor=white&color=000000)](https://tiktok.com/@sh0ckR6)
 
 
 ## Pinned Repositories
@@ -32,7 +31,7 @@ I am also located on other corners of the internet, and you can find me on a bun
 
 #### Testing
 ![](https://img.shields.io/badge/Test-Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=1dd1a1)
-![](https://img.shields.io/badge/Test-JUnit-informational?style=for-the-badge&logo=junit&logoColor=white&color=1dd1a1)
+![](https://img.shields.io/badge/Test-JUnit-informational?style=for-the-badge&logo=junit5&logoColor=white&color=1dd1a1)
 
 #### Tools
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=ff9f43)
