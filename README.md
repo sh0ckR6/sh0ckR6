@@ -27,7 +27,7 @@ Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins 
 #### Code
 ![](https://img.shields.io/badge/Code-Java-informational?colorA=181B20&style=for-the-badge&logo=java&logoColor=white&color=00d2d3)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?colorA=181B20&style=for-the-badge&logo=TypeScript&logoColor=white&color=00d2d3)
-![](https://img.shields.io/badge/Code-CSharp-informational?colorA=181B20&style=for-the-badge&logo=c-sharp&logoColor=white&color=00d2d3)
+![](https://img.shields.io/badge/Code-C%23-informational?colorA=181B20&style=for-the-badge&logo=c-sharp&logoColor=white&color=00d2d3)
 
 #### Testing
 ![](https://img.shields.io/badge/Test-Jest-informational?colorA=181B20&style=for-the-badge&logo=jest&logoColor=white&color=1dd1a1)
