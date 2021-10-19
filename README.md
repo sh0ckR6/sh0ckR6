@@ -14,12 +14,12 @@ Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins 
 
 ## Pinned Repositories
 <a href="https://github.com/sh0ckdotlive/AchievementBorder">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckR6&repo=AchievementBorder&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=AchievementBorder&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
 </a>
 <a href="https://github.com/sh0ckdotlive/MineEffect">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckR6&repo=MineEffect&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=MineEffect&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
 </a>
-<a href="https://github.com/sh0ckdotlive/role-colors">
+<a href="https://github.com/sh0ckR6/role-colors">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckR6&repo=role-colors&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
 </a>
 
