@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Hi there 👋
-Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins and Discord bots. I am new to this whole Git and GitHub thing, so if you have any suggestions please let me know what I can improve on!
+Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins and Discord bots. I am still learning Git and GitHub, so if you have any suggestions please let me know what I can improve on!
 
 ### Socials
 [![twitch](https://img.shields.io/badge/socials-Twitch-9146FF?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://twitch.tv/sh0ckR6)
