@@ -2,15 +2,14 @@
 
 ## Introduction
 ### Hi there 👋
-Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins and Discord bots. I am still learning Git and GitHub, so if you have any suggestions please let me know what I can improve on!
+Hello! I am sh0ckR6, and I am an aspiring developer that creates Java, .NET, and sometimes JS/TS apps. I am still learning Git and GitHub, so if you have any suggestions please let me know what I can improve on!
 
 ### Socials
-[![twitch](https://img.shields.io/badge/socials-Twitch-9146FF?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://twitch.tv/sh0ckR6)
+[![twitch](https://img.shields.io/badge/socials-Twitch-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://twitch.tv/sh0ckR6)
 [![twitter](https://img.shields.io/badge/socials-Twitter-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/sh0ckR6)
 [![discord](https://img.shields.io/badge/socials-Discord-1DA1F2?colorA=181B20&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/zGpvE5T)
 [![youtube](https://img.shields.io/badge/socials-Youtube-1DA1F2?colorA=181B20&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/sh0ckR6)
 [![tiktok](https://img.shields.io/badge/socials-TikTok-1DA1F2?colorA=181B20&style=for-the-badge&logo=tiktok&logoColor=white&color=000000)](https://tiktok.com/@sh0ckR6)
-
 
 ## Pinned Repositories
 <a href="https://github.com/sh0ckdotlive/AchievementBorder">
@@ -25,6 +24,7 @@ Hello! I am sh0ckR6, and I am an aspiring developer that creates Bukkit plugins 
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0ckR6&title_color=0abde3&bg_color=181B20&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sh0ckR6&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=181B20&ring=48DBFB&fire=FF9F43&currStreakNum=FECA57&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FECA57&dates=8395A7)](https://git.io/streak-stats)
 
 ## Skills
 #### Code
