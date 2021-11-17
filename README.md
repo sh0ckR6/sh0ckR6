@@ -5,12 +5,14 @@
 Hello! I am sh0ckR6, and I am an aspiring developer that creates Java, .NET, and sometimes JS/TS apps. I am still learning Git and GitHub, so if you have any suggestions please let me know what I can improve on!
 
 ### Socials
-[![twitch](https://img.shields.io/badge/socials-Twitch-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF)](https://twitch.tv/sh0ckR6)
-[![twitter](https://img.shields.io/badge/socials-Twitter-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/sh0ckR6)
-[![discord](https://img.shields.io/badge/socials-Discord-1DA1F2?colorA=181B20&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/zGpvE5T)
-[![youtube](https://img.shields.io/badge/socials-Youtube-1DA1F2?colorA=181B20&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/sh0ckR6)
-[![tiktok](https://img.shields.io/badge/socials-TikTok-1DA1F2?colorA=181B20&style=for-the-badge&logo=tiktok&logoColor=white&color=000000)](https://tiktok.com/@sh0ckR6)
-
+<p align="center">
+  <a href="https://twitch.tv/sh0ckR6"><img src="https://img.shields.io/badge/socials-Twitch-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF"/></a>
+  <a href="http://twitter.com/sh0ckR6"><img src="https://img.shields.io/badge/socials-Twitter-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" href="https://twitter.com/sh0ckR6"/></a>
+  <a href="ttps://discord.gg/zGpvE5T"><img src="https://img.shields.io/badge/socials-Discord-1DA1F2?colorA=181B20&style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/></a>
+  <a href="https://youtube.com/sh0ckR6"/><img src="https://img.shields.io/badge/socials-Youtube-1DA1F2?colorA=181B20&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/><a/>
+    <a href="https://tiktok.com/@sh0ckR6"/><img src="https://img.shields.io/badge/socials-TikTok-1DA1F2?colorA=181B20&style=for-the-badge&logo=tiktok&logoColor=white&color=000000"/><a/>
+</p>
+  
 ## Pinned Repositories
 <a href="https://github.com/sh0ckdotlive/AchievementBorder">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=AchievementBorder&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
