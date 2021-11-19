@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Banner"><br>
+<!--<img src="./assets/banner.png" alt="Banner"><br>-->
 
 ## Introduction
 ### Hi there 👋
