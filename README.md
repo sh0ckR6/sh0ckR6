@@ -29,10 +29,11 @@ Hello! I am sh0ckR6, and I am an aspiring developer that creates Java, .NET, and
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sh0ckR6&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=181B20&ring=48DBFB&fire=FF9F43&currStreakNum=FECA57&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FECA57&dates=8395A7)](https://git.io/streak-stats)
 
 ## Skills
-#### Code
-![](https://img.shields.io/badge/Code-Java-informational?colorA=181B20&style=for-the-badge&logo=java&logoColor=white&color=00d2d3)
-![](https://img.shields.io/badge/Code-TypeScript-informational?colorA=181B20&style=for-the-badge&logo=TypeScript&logoColor=white&color=00d2d3)
-![](https://img.shields.io/badge/Code-C%23-informational?colorA=181B20&style=for-the-badge&logo=c-sharp&logoColor=white&color=00d2d3)
+#### Languages
+![](https://img.shields.io/badge/Lang-Java-informational?colorA=181B20&style=for-the-badge&logo=java&logoColor=white&color=00d2d3)
+![](https://img.shields.io/badge/Lang-TypeScript-informational?colorA=181B20&style=for-the-badge&logo=TypeScript&logoColor=white&color=00d2d3)
+![](https://img.shields.io/badge/Lang-C%23-informational?colorA=181B20&style=for-the-badge&logo=c-sharp&logoColor=white&color=00d2d3)
+![](https://img.shields.io/badge/Lang-Kotlin-informational?colorA=181B20&style=for-the-badge&logo=kotlin&logoColor=white&color=00d2d3)
 
 #### Testing
 ![](https://img.shields.io/badge/Test-Jest-informational?colorA=181B20&style=for-the-badge&logo=jest&logoColor=white&color=1dd1a1)
