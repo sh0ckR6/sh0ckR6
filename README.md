@@ -11,7 +11,6 @@ Heya! I'm Lily, a self-taught Java and TypeScript/JavaScript developer! I've bee
 <p align="center">
   <a href="https://twitch.tv/sh0ckR6"><img src="https://img.shields.io/badge/socials-Twitch-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF"/></a>
   <a href="http://twitter.com/sh0ckR6"><img src="https://img.shields.io/badge/socials-Twitter-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" href="https://twitter.com/sh0ckR6"/></a>
-  <a href="ttps://discord.gg/zGpvE5T"><img src="https://img.shields.io/badge/socials-Discord-1DA1F2?colorA=181B20&style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/></a>
   <a href="https://youtube.com/sh0ckR6"/><img src="https://img.shields.io/badge/socials-Youtube-1DA1F2?colorA=181B20&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/></a>
     <a href="https://tiktok.com/@sh0ckR6"/><img src="https://img.shields.io/badge/socials-TikTok-1DA1F2?colorA=181B20&style=for-the-badge&logo=tiktok&logoColor=white&color=000000"/></a>
 </p>
