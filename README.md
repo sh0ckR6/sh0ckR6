@@ -1,20 +1,26 @@
 <!--<img src="./assets/banner.png" alt="Banner"><br>-->
 
 ## Introduction
-### Hi there 👋
-Heya! I'm Lily, a self-taught Java and TypeScript/JavaScript developer! I've been working on learning other languages and tools such as C# and MongoDB!
+<h3 align="center">Hi there 👋</h3>
+<p align="center">Heya! I'm Lily, a self-taught Java and TypeScript/JavaScript developer! I've been working on learning other languages and tools such as C# and MongoDB!</p>
 
-### Pronouns
-[She/They](https://en.pronouns.page/@sh0ck) 🏳️‍⚧️🏳️‍🌈
+---
+<h3 align="center">Pronouns</h3>
+<p align="center"><a href="https://en.pronouns.page/@sh0ck">She/They</a> 🏳️‍⚧️🏳️‍🌈</p>
 
-### Socials
+---
+<h3 align="center">Socials</h3>
 <p align="center">
   <a href="https://twitch.tv/sh0ckR6"><img src="https://img.shields.io/badge/socials-Twitch-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF"/></a>
   <a href="http://twitter.com/sh0ckR6"><img src="https://img.shields.io/badge/socials-Twitter-1DA1F2?colorA=181B20&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" href="https://twitter.com/sh0ckR6"/></a>
   <a href="https://youtube.com/sh0ckR6"/><img src="https://img.shields.io/badge/socials-Youtube-1DA1F2?colorA=181B20&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/></a>
     <a href="https://tiktok.com/@sh0ckR6"/><img src="https://img.shields.io/badge/socials-TikTok-1DA1F2?colorA=181B20&style=for-the-badge&logo=tiktok&logoColor=white&color=000000"/></a>
 </p>
-  
+
+---
+## Current Projects
+<h3 align="center">None</h3>
+
 ## Pinned Repositories
 <a href="https://github.com/sh0ckdotlive/AchievementBorder">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=AchievementBorder&title_color=ffffff&text_color=c9cacc&icon_color=00d2d3&bg_color=181B20&hide_border=true" />
