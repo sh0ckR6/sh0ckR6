@@ -1,3 +1,6 @@
+> **Note**
+> 
+> I am currently not working on any projects and will not be very active on GitHub due to work and preperations for school!
 <!--<img src="./assets/banner.png" alt="Banner"><br>-->
 
 ## Introduction
