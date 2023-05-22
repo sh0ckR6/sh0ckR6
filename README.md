@@ -29,8 +29,8 @@
   <a href="https://github.com/sh0ckdotlive/AchievementBorder">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=AchievementBorder&title_color=91d7e3&text_color=c9cacc&icon_color=7dc4e4&bg_color=24273a&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/sh0ckdotlive/TwitchIntegration">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=TwitchIntegration&title_color=91d7e3&text_color=c9cacc&icon_color=7dc4e4&bg_color=24273a&hide_border=true&show_owner=true" />
+  <a href="https://github.com/sh0ckdotlive/hardcore-twitch-integration">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=hardcore-twitch-integration&title_color=91d7e3&text_color=c9cacc&icon_color=7dc4e4&bg_color=24273a&hide_border=true&show_owner=true" />
 </p>
 
 ## GitHub Stats
