@@ -1,16 +1,12 @@
-> [!NOTE]
-> I am currently not working on any projects and will not be very active on GitHub due to work and preperations for school!
 <!--<img src="./assets/banner.png" alt="Banner"><br>-->
 
 ## Introduction
 <h3 align="center">Hi there 👋</h3>
-<p align="center">Heya! I'm Lily, a self-taught Java and C# developer! I've been working on learning other languages and tools such as TypeScript and MongoDB!</p>
+
+<p align="center">Heya! I'm Lily (she/they · 🏳️‍⚧️), a self-taught Java and C# developer!</p>
 
 ---
-<h3 align="center">Pronouns</h3>
-<p align="center"><a href="https://en.pronouns.page/@sh0ck">She/They</a> 🏳️‍⚧️🏳️‍🌈</p>
 
----
 <h3 align="center">Socials</h3>
 <p align="center">
   <a href="https://twitch.tv/sh0ckR6"><img src="https://img.shields.io/badge/Twitch-1DA1F2?colorA=24273a&style=for-the-badge&logo=twitch&logoColor=white&color=9146FF"/></a>
@@ -21,10 +17,17 @@
 
 ---
 ## Current Projects
-<h3 align="center">None</h3>
+<p align="center">
+  <a href="https://github.com/kalebred/JSharp">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kalebred&repo=JSharp&title_color=91d7e3&text_color=c9cacc&icon_color=7dc4e4&bg_color=24273a&hide_border=true&show_owner=true" />
+  </a>
+</p>
 
 ## Pinned Repositories
 <p align="center">
+  <a href="https://github.com/kalebred/JSharp">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kalebred&repo=JSharp&title_color=91d7e3&text_color=c9cacc&icon_color=7dc4e4&bg_color=24273a&hide_border=true&show_owner=true" />
+  </a>
   <a href="https://github.com/sh0ckdotlive/AchievementBorder">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sh0ckdotlive&repo=AchievementBorder&title_color=91d7e3&text_color=c9cacc&icon_color=7dc4e4&bg_color=24273a&hide_border=true&show_owner=true" />
   </a>
